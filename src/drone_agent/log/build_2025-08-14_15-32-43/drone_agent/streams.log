@@ -1,0 +1,43 @@
+[0.005s] Invoking command in '/home/wan/Desktop/rosa/src/drone_agent/build/drone_agent': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(rosa) /usr/bin/cmake /home/wan/Desktop/rosa/src/drone_agent -DCMAKE_INSTALL_PREFIX=/home/wan/Desktop/rosa/src/drone_agent/install/drone_agent
+[0.047s] -- The C compiler identification is GNU 11.4.0
+[0.077s] -- The CXX compiler identification is GNU 11.4.0
+[0.080s] -- Detecting C compiler ABI info
+[0.127s] -- Detecting C compiler ABI info - done
+[0.132s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.132s] -- Detecting C compile features
+[0.132s] -- Detecting C compile features - done
+[0.134s] -- Detecting CXX compiler ABI info
+[0.186s] -- Detecting CXX compiler ABI info - done
+[0.189s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.189s] -- Detecting CXX compile features
+[0.189s] -- Detecting CXX compile features - done
+[0.190s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.358s] -- Found Python3: /home/wan/anaconda3/envs/rosa/bin/python3 (found version "3.10.0") found components: Interpreter 
+[0.398s] -- Found rclpy: 3.3.17 (/opt/ros/humble/share/rclpy/cmake)
+[0.398s] -- Found std_msgs: 4.9.0 (/opt/ros/humble/share/std_msgs/cmake)
+[0.412s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.413s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.417s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.422s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.428s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.438s] -- Found geometry_msgs: 4.9.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.443s] [31mCMake Error at CMakeLists.txt:22 (install):
+[0.443s]   install DIRECTORY given non-directory "scripts/help.py" to install.
+[0.443s] 
+[0.443s] [0m
+[0.443s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.485s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.487s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.487s] -- Configured cppcheck include dirs: 
+[0.487s] -- Configured cppcheck exclude dirs and/or files: 
+[0.488s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.488s] -- Configured cpplint exclude dirs and/or files: 
+[0.489s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.489s] -- Added test 'lint_cmake' to check CMake code style
+[0.490s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.491s] -- Added test 'uncrustify' to check C / C++ code style
+[0.491s] -- Configured uncrustify additional arguments: 
+[0.492s] -- Added test 'xmllint' to check XML markup files
+[0.492s] -- Configuring incomplete, errors occurred!
+[0.492s] See also "/home/wan/Desktop/rosa/src/drone_agent/build/drone_agent/CMakeFiles/CMakeOutput.log".
+[0.496s] Invoked command in '/home/wan/Desktop/rosa/src/drone_agent/build/drone_agent' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(rosa) /usr/bin/cmake /home/wan/Desktop/rosa/src/drone_agent -DCMAKE_INSTALL_PREFIX=/home/wan/Desktop/rosa/src/drone_agent/install/drone_agent

@@ -1,0 +1,49 @@
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rclpy: 3.3.17 (/opt/ros/humble/share/rclpy/cmake)
+-- Found std_msgs: 4.9.0 (/opt/ros/humble/share/std_msgs/cmake)
+-- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found geometry_msgs: 4.9.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wan/Desktop/rosa/src/drone_agent/build/drone_agent
+-- Install configuration: ""
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/lib/drone_agent/drone_agent.py
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/lib/drone_agent/tools
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/lib/drone_agent/tools/drone.py
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/lib/drone_agent/help.py
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/lib/drone_agent/llm.py
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/lib/drone_agent/prompts.py
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/share/drone_agent//launch
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/share/drone_agent//launch/agent.launch.py
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/share/ament_index/resource_index/package_run_dependencies/drone_agent
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/share/ament_index/resource_index/parent_prefix_path/drone_agent
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/share/drone_agent/environment/ament_prefix_path.sh
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/share/drone_agent/environment/ament_prefix_path.dsv
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/share/drone_agent/environment/path.sh
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/share/drone_agent/environment/path.dsv
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/share/drone_agent/local_setup.bash
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/share/drone_agent/local_setup.sh
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/share/drone_agent/local_setup.zsh
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/share/drone_agent/local_setup.dsv
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/share/drone_agent/package.dsv
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/share/ament_index/resource_index/packages/drone_agent
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/share/drone_agent/cmake/drone_agentConfig.cmake
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/share/drone_agent/cmake/drone_agentConfig-version.cmake
+-- Installing: /home/wan/Desktop/rosa/src/drone_agent/install/drone_agent/share/drone_agent/package.xml

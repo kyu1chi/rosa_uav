@@ -1,0 +1,4 @@
+[31mCMake Error at CMakeLists.txt:22 (install):
+  install DIRECTORY given non-directory "scripts/help.py" to install.
+
+[0m
