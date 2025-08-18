@@ -1,0 +1,2 @@
+Invoking command in '/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake /home/wan/Desktop/rosa/src/uav_agent -DCMAKE_INSTALL_PREFIX=/home/wan/Desktop/rosa/src/uav_agent/install/uav_agent
+Invoked command in '/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake /home/wan/Desktop/rosa/src/uav_agent -DCMAKE_INSTALL_PREFIX=/home/wan/Desktop/rosa/src/uav_agent/install/uav_agent

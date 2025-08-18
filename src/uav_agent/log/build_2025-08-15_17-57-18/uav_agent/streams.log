@@ -1,0 +1,30 @@
+[0.006s] Invoking command in '/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/wan/Desktop/rosa/src/uav_agent -DCMAKE_INSTALL_PREFIX=/home/wan/Desktop/rosa/src/uav_agent/install/uav_agent
+[0.015s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.125s] -- Configuring done
+[0.126s] -- Generating done
+[0.127s] -- Build files have been written to: /home/wan/Desktop/rosa/src/uav_agent/build/uav_agent
+[0.129s] Invoked command in '/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/wan/Desktop/rosa/src/uav_agent -DCMAKE_INSTALL_PREFIX=/home/wan/Desktop/rosa/src/uav_agent/install/uav_agent
+[0.131s] Invoking command in '/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/wan/Desktop/rosa/src/uav_agent/build/uav_agent -- -j32 -l32
+[0.152s] Invoked command in '/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/wan/Desktop/rosa/src/uav_agent/build/uav_agent -- -j32 -l32
+[0.158s] Invoking command in '/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/wan/Desktop/rosa/src/uav_agent/build/uav_agent
+[0.163s] -- Install configuration: ""
+[0.163s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/lib/uav_agent/uav_agent.py
+[0.164s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent//launch
+[0.164s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent//launch/uav_agent.launch.py
+[0.164s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent//launch/agent.launch
+[0.164s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/ament_index/resource_index/package_run_dependencies/uav_agent
+[0.164s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/ament_index/resource_index/parent_prefix_path/uav_agent
+[0.164s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/environment/ament_prefix_path.sh
+[0.164s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/environment/ament_prefix_path.dsv
+[0.164s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/environment/path.sh
+[0.164s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/environment/path.dsv
+[0.164s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/local_setup.bash
+[0.164s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/local_setup.sh
+[0.164s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/local_setup.zsh
+[0.164s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/local_setup.dsv
+[0.164s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/package.dsv
+[0.164s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/ament_index/resource_index/packages/uav_agent
+[0.165s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/cmake/uav_agentConfig.cmake
+[0.165s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/cmake/uav_agentConfig-version.cmake
+[0.165s] -- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/package.xml
+[0.166s] Invoked command in '/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/wan/Desktop/rosa/src/uav_agent/build/uav_agent

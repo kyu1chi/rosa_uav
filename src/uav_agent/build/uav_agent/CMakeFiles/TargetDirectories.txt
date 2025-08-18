@@ -1,0 +1,9 @@
+/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent/CMakeFiles/uninstall.dir
+/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent/CMakeFiles/uav_agent_uninstall.dir
+/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent/CMakeFiles/test.dir
+/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent/CMakeFiles/edit_cache.dir
+/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent/CMakeFiles/rebuild_cache.dir
+/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent/CMakeFiles/list_install_components.dir
+/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent/CMakeFiles/install.dir
+/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent/CMakeFiles/install/local.dir
+/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent/CMakeFiles/install/strip.dir

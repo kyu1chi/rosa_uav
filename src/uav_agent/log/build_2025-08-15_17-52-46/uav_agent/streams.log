@@ -1,0 +1,44 @@
+[0.005s] Invoking command in '/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake /home/wan/Desktop/rosa/src/uav_agent -DCMAKE_INSTALL_PREFIX=/home/wan/Desktop/rosa/src/uav_agent/install/uav_agent
+[0.046s] -- The C compiler identification is GNU 11.4.0
+[0.082s] -- The CXX compiler identification is GNU 11.4.0
+[0.087s] -- Detecting C compiler ABI info
+[0.136s] -- Detecting C compiler ABI info - done
+[0.139s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.140s] -- Detecting C compile features
+[0.140s] -- Detecting C compile features - done
+[0.141s] -- Detecting CXX compiler ABI info
+[0.188s] -- Detecting CXX compiler ABI info - done
+[0.191s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.191s] -- Detecting CXX compile features
+[0.192s] -- Detecting CXX compile features - done
+[0.193s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.372s] -- Found Python3: /home/wan/anaconda3/envs/ros/bin/python3 (found version "3.10.0") found components: Interpreter 
+[0.414s] -- Found rclpy: 3.3.17 (/opt/ros/humble/share/rclpy/cmake)
+[0.414s] -- Found std_msgs: 4.9.0 (/opt/ros/humble/share/std_msgs/cmake)
+[0.431s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.433s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.437s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.442s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.448s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.461s] -- Found geometry_msgs: 4.9.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.469s] -- Found sensor_msgs: 4.9.0 (/opt/ros/humble/share/sensor_msgs/cmake)
+[0.485s] [31mCMake Error at CMakeLists.txt:14 (find_package):
+[0.485s]   By not providing "Findpx4_msgs.cmake" in CMAKE_MODULE_PATH this project has
+[0.485s]   asked CMake to find a package configuration file provided by "px4_msgs",
+[0.485s]   but CMake did not find one.
+[0.485s] 
+[0.485s]   Could not find a package configuration file provided by "px4_msgs" with any
+[0.485s]   of the following names:
+[0.486s] 
+[0.486s]     px4_msgsConfig.cmake
+[0.486s]     px4_msgs-config.cmake
+[0.486s] 
+[0.486s]   Add the installation prefix of "px4_msgs" to CMAKE_PREFIX_PATH or set
+[0.486s]   "px4_msgs_DIR" to a directory containing one of the above files.  If
+[0.486s]   "px4_msgs" provides a separate development package or SDK, be sure it has
+[0.486s]   been installed.
+[0.486s] 
+[0.486s] -- Configuring incomplete, errors occurred!
+[0.486s] See also "/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent/CMakeFiles/CMakeOutput.log".
+[0.486s] [0m
+[0.489s] Invoked command in '/home/wan/Desktop/rosa/src/uav_agent/build/uav_agent' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros) /usr/bin/cmake /home/wan/Desktop/rosa/src/uav_agent -DCMAKE_INSTALL_PREFIX=/home/wan/Desktop/rosa/src/uav_agent/install/uav_agent

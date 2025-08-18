@@ -1,0 +1,18 @@
+<launch>
+  <!-- UAV Agent Launch File -->
+  <!-- This launch file starts the ROSA UAV Agent for PX4 drone control -->
+  
+  <arg name="streaming" default="true" doc="Enable streaming mode for real-time response display"/>
+  <arg name="verbose" default="false" doc="Enable verbose output for debugging"/>
+  
+  <!-- ROSA UAV Agent Node -->
+  <node pkg="uav_agent" 
+        type="uav_agent.py" 
+        name="rosa_uav_agent" 
+        output="screen"
+        required="true">
+    <param name="streaming" value="$(arg streaming)"/>
+    <param name="verbose" value="$(arg verbose)"/>
+  </node>
+  
+</launch>

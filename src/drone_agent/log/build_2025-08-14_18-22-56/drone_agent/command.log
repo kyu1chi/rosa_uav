@@ -1,4 +1,0 @@
-Invoking command in '/home/wan/Desktop/rosa/src/drone_agent/build/drone_agent': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/wan/Desktop/rosa/src/drone_agent/build/drone_agent -- -j32 -l32
-Invoked command in '/home/wan/Desktop/rosa/src/drone_agent/build/drone_agent' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/wan/Desktop/rosa/src/drone_agent/build/drone_agent -- -j32 -l32
-Invoking command in '/home/wan/Desktop/rosa/src/drone_agent/build/drone_agent': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/wan/Desktop/rosa/src/drone_agent/build/drone_agent
-Invoked command in '/home/wan/Desktop/rosa/src/drone_agent/build/drone_agent' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/wan/Desktop/rosa/src/drone_agent/build/drone_agent

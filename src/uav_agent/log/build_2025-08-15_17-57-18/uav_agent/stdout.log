@@ -1,0 +1,24 @@
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wan/Desktop/rosa/src/uav_agent/build/uav_agent
+-- Install configuration: ""
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/lib/uav_agent/uav_agent.py
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent//launch
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent//launch/uav_agent.launch.py
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent//launch/agent.launch
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/ament_index/resource_index/package_run_dependencies/uav_agent
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/ament_index/resource_index/parent_prefix_path/uav_agent
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/environment/ament_prefix_path.sh
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/environment/ament_prefix_path.dsv
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/environment/path.sh
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/environment/path.dsv
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/local_setup.bash
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/local_setup.sh
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/local_setup.zsh
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/local_setup.dsv
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/package.dsv
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/ament_index/resource_index/packages/uav_agent
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/cmake/uav_agentConfig.cmake
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/cmake/uav_agentConfig-version.cmake
+-- Installing: /home/wan/Desktop/rosa/src/uav_agent/install/uav_agent/share/uav_agent/package.xml
